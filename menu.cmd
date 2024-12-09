@@ -3,7 +3,7 @@
 :: Menu for Git Operations
 title Git Repository Manager
 
-:: Set color for menu background and text
+:: Set color for menu background and text, ...
 color 0A
 
 :menu
