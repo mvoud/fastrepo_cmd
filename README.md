@@ -1,1 +1,6 @@
-"# fastrepo_cmd" 
+# fastrepo_cmd
+
+
+|         | Windows | Macos | Linux Distro(s) |
+|---------|---------|-------|-----------------|
+| Scripts |    ✅    |   ❌   |        ❌        |
